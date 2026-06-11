@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate Computer Science Engineering student (6th Semester) at Parul University. I specialize in mobile architecture, with a focus on high-performance iOS development and Edge AI integration. I enjoy leading technical teams and bridging the gap between low-level system optimizations and user-facing features.
+I'm a passionate Computer Science Engineering student at Parul University. I specialize in mobile architecture, with a focus on high-performance iOS development and Edge AI integration. I enjoy leading technical teams and bridging the gap between low-level system optimizations and user-facing features.
 
 - 🎯 **iOS Expertise:** Apple Certified Associate (Swift), iOS Tech Lead (AATCe), Swift Coding Club Lead.
 - 💼 **Professional:** Software Development Intern at Parul University's Tinkering Hub.
